@@ -12,6 +12,8 @@ metadata:
 
 # GUI List Miner · 无 API 桌面应用的列表挖掘机
 
+> 开源仓库：<https://github.com/dabing110/gui-list-miner>（MIT）
+
 ## 何时用
 
 用户在 Windows 上想导出某个桌面客户端里的历史列表，但该应用：
