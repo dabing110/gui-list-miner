@@ -52,6 +52,7 @@ powershell -ExecutionPolicy Bypass -File scripts\ocr_winrt.ps1 -Dir data\cropped
 ```
 
 作为 [WorkBuddy](https://www.workbuddy.cn) skill 使用时，Agent 会自动按 `SKILL.md` 里的流程跑。
+安装：把本仓库克隆到 `~/.workbuddy/skills/gui-list-miner/` 即可。
 
 ## 两个解析模式
 
